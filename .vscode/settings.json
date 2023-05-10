@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "st7586s.h": "c",
+        "string.h": "c",
+        "st7586s_font.h": "c"
+    },
+    "C_Cpp.errorSquiggles": "disabled"
+}
